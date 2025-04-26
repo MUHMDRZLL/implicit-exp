@@ -1,4 +1,4 @@
-package com.example.aatugass;
+package com.example;
 
 import android.content.Context;
 
